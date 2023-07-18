@@ -1,2 +1,3 @@
 # ReactAppProj1
-Storefront Application built using create-react-app and state being handle by Redux chain.
+Storefront Application built using bootstrap React and state management being handled by Redux.
+
