@@ -34,8 +34,8 @@ This project is licensed under the [MIT License](link-to-license).
 
 If you have any questions or need further assistance, feel free to reach out to the project maintainer:
 
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [@your-username](https://github.com/your-username)
+- Name: David Tacoronte
+- Email: d.tacoronte@gmail.com
+- GitHub: [@dtaco](https://github.com/dtaco)
 
 We appreciate your interest in our storefront project! Happy coding!
