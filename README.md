@@ -1,9 +1,20 @@
-##Storefront - React-Redux
+Storefront - React-Redux
+Storefront Demo
 
-#Description:    My first React/Redux combo project to create a basic storefront.
+Description
+This is my first React/Redux combo project aimed at creating a basic storefront. The project leverages React for building the user interface and Redux for state management, providing a dynamic and responsive user experience.
 
-#Objective:      To create a dynamic storefront using the Reactjs language while using a combination of React and Redux for state management.
+Objective
+The main goal of this project is to develop a fully functional storefront using the React.js library and harnessing the power of Redux for efficient state management. With this combination, we aim to achieve a seamless user experience, ensuring that the application remains responsive and scalable.
 
-#Current focus:  The basic framework of the storefront is complete, including containers, action types, and reducers. The App has routing and functionality, and the state is seamlessly handled through all actions. API calls are handled through the use of Axios.
+Current Focus
+As of now, the basic framework of the storefront has been completed. The project includes essential components such as containers, action types, and reducers, which work together to manage the application's state. Routing functionality has been implemented, ensuring smooth navigation within the application. The integration of Axios facilitates API calls, allowing seamless data retrieval from external sources.
 
-#Next focus: Change some styling and create a base home page with a CTA. Look into store cart functionality.
+Next Focus
+The upcoming focus will involve two primary tasks:
+
+1. Styling Enhancements
+In the next phase, we will be working on improving the overall visual appeal of the storefront. This will include refining the layout, applying consistent themes, and ensuring the application's user interface adheres to modern design principles.
+
+2. Implementing Store Cart Functionality
+One of the essential features of a storefront is the shopping cart. In the next phase of development, we will be integrating the store cart functionality, allowing users to add items, view their cart contents, and manage their shopping selections.
