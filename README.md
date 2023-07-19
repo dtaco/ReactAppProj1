@@ -1,6 +1,6 @@
 # Storefront - React-Redux
 
-![Storefront Demo](link_to_demo.gif)
+![Storefront Demo](Desktop/Personal Project folder/reactreduxproj1/public/Screen Shot 2023-07-19 at 7.02.42 PM.png)
 
 ## Description
 
