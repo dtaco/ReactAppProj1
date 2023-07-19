@@ -1,6 +1,6 @@
 # Storefront - React-Redux
 
-![Storefront Demo](Desktop/Personal Project folder/reactreduxproj1/public/Screen Shot 2023-07-19 at 7.02.42 PM.png)
+![Storefront Demo](https://github.com/dtaco/Storefront---React-Redux/blob/master/Desktop/Personal%20Project%20folder/reactreduxproj1/public/Screen%20Shot%202023-07-19%20at%207.02.42%20PM.png)
 
 ## Description
 
